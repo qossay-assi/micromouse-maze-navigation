@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+.idea/
+out/
+output/
+*.exe
+*.o
+*.class
+*.pkl
+*.npy
+*.edf
+plants/
+animals/
+ts/
